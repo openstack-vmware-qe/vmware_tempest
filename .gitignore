@@ -1,0 +1,3 @@
+*.pyc
+tempest.log
+vmware_tempest.cfg
